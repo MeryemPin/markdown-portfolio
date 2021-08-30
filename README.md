@@ -1,1 +1,6 @@
-This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+# Header
+## Header 2 
+### Header 3
+#### Header 4 
+##### Header 5 
+###### Header 6
